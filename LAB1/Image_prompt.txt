@@ -1,0 +1,55 @@
+Act as a professional graphic designer creating posters for university-level
+entrepreneurship and innovation events.
+
+Generate a high-resolution vertical poster for a
+Two-Day National-Level Pitch Deck & Startup Idea Competition for Young Entrepreneurs.
+
+Scene & Composition:
+The poster should depict four confident university students presenting and
+discussing startup ideas using laptops, tablets, and a digital pitch screen
+inside a modern university auditorium or innovation hub.
+One student should be shown explaining an idea while others collaborate,
+symbolizing teamwork, leadership, and entrepreneurship.
+
+Visual Style & Atmosphere:
+• Modern, innovative startup environment
+• Clean and professional tech-conference aesthetic
+• Blue, teal, and purple color palette with subtle warm highlights
+• Floating charts, graphs, startup icons, lightbulbs, and growth arrows
+  representing ideas, innovation, and scalability
+• Subtle futuristic UI elements and holographic pitch visuals
+• Bright, cinematic lighting with an academic yet startup-focused feel
+
+Text Content (must be clearly visible and well-structured on the poster):
+• Title: National-Level Pitch Deck & Startup Idea Competition
+• Subtitle: Empowering Young Entrepreneurs
+• Dates (highlighted): 20–21 February 2025
+• Description: Two-Day On-Campus Startup Pitch Event
+• Venue: RV University, Mysore Road, Bengaluru, Karnataka
+• Eligibility: UG & PG Students (All Departments)
+• Team Size: 1–4 Members
+• Registration: Free Registration
+• Registration Deadline: Register by 15 February 2025
+
+Prizes Section (clearly highlighted with icons or badges):
+• 1st Prize: ₹30,000
+• 2nd Prize: ₹20,000
+• 3rd Prize: ₹15,000
+• Additional Note: Merit Awards & Participation Certificates
+
+Additional Highlights:
+• Opportunity to pitch before industry experts and entrepreneurs
+• Mentorship, expert feedback, and networking opportunities
+
+Design Requirements:
+• Clear visual hierarchy with bold typography for the title, dates, and prizes
+• Minimal clutter with high readability
+• Use icons for venue, eligibility, team size, and prizes
+• Include a QR code placeholder labeled “Scan to Register”
+
+Tone & Purpose:
+Professional, innovative, academic, and student-friendly
+
+Aspect Ratio:
+Vertical poster format suitable for university email circulation,
+notice boards, and social media platforms

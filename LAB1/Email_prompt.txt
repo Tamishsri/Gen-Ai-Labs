@@ -1,0 +1,39 @@
+Act as a professional university event coordinator.
+
+Draft a formal and engaging university launch email announcing a
+Two-Day National-Level Pitch Deck & Startup Idea Competition for Young Entrepreneurs.
+
+The email should be addressed to undergraduate and postgraduate students across all departments
+and written in a professional, motivating, and student-friendly tone,
+suitable for official university email circulation.
+
+The email must clearly include the following details:
+
+• Event title: Two-Day National-Level Pitch Deck & Startup Idea Competition
+• Venue: RV University, Mysore Road Campus, Bengaluru, Karnataka
+• Event start date: [INSERT DATE]
+• Mode: On-campus, two consecutive days
+• Purpose and objective of the event, emphasizing innovation, entrepreneurship,
+  problem-solving, startup ideation, and real-world impact
+• Key focus areas such as startup ideation, business models, pitch deck design,
+  market validation, innovation, and entrepreneurial thinking
+• Eligibility: Undergraduate and Postgraduate students from all departments
+• Team size: 1 to 4 members, with encouragement for interdisciplinary participation
+• Registration details, clearly stating that registration is free and mentioning
+  the registration deadline along with a placeholder for the registration link
+• A note stating that shortlisted teams will get an opportunity to pitch their ideas
+  before a panel of judges including industry experts and entrepreneurs
+• Information about attractive cash prizes, merit awards, and participation certificates
+• Mention that mentorship, networking opportunities, and expert feedback will be provided
+• Contact details of the organizing committee (email ID and phone number placeholder)
+
+The email should be structured with clear paragraphs,
+maintain a formal academic tone,
+and conclude with a polite closing signed as:
+
+"Warm regards,
+Hackathon / Event Organizing Committee
+RV University"
+
+Word limit: 180–220 words
+Tone: Professional, inspiring, and student-friendly
