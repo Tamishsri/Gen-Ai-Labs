@@ -1,0 +1,52 @@
+Act as a professional video content designer creating promotional videos
+for university-level entrepreneurship and innovation events.
+
+Generate a short promotional video composed of 10 continuous scenes for a
+Two-Day National-Level Pitch Deck & Startup Idea Competition for Young Entrepreneurs
+hosted by RV University.
+
+The video should follow a logical narrative flow, starting with the challenges
+faced by aspiring entrepreneurs and idea-stage founders, gradually transitioning
+to innovation, startup thinking, and pitching solutions, and finally inviting
+students to participate in the competition.
+
+Scene Progression and Content:
+
+1. Introduce the problem of young innovators having ideas but lacking a platform
+   to showcase them.
+2. Highlight common challenges such as unclear business models, fear of failure,
+   and lack of mentorship or exposure.
+3. Emphasize that many students do not know how to convert ideas into viable startups.
+4. Introduce entrepreneurship, innovation, and pitch decks as powerful tools
+   to transform ideas into real-world solutions.
+5. Announce that RV University is organizing a National-Level Pitch Deck &
+   Startup Idea Competition for young entrepreneurs.
+6. Highlight that the event is a two-day, hands-on, on-campus competition scheduled
+   for 20–21 February 2025.
+7. State eligibility by inviting undergraduate and postgraduate students from
+   all departments to participate individually or in teams of 1–4 members.
+8. Emphasize the availability of attractive cash prizes (₹30,000, ₹20,000, ₹15,000),
+   along with merit awards and participation certificates.
+9. Inform viewers that registration is completely free and closes on
+   15 February 2025.
+10. Conclude with a strong call-to-action encouraging students to scan the QR code
+    and register, inviting them to pitch their ideas at RV University,
+    Mysore Road Campus, Bengaluru.
+
+Visual Style:
+• Modern, startup-focused visuals
+• Elements such as pitch decks, charts, graphs, lightbulbs, growth arrows,
+  and innovation icons
+• Clean, minimal backgrounds with subtle futuristic UI overlays
+• Smooth cinematic transitions between scenes
+• Clear and readable text overlays supporting the narration
+
+Tone and Vibe:
+Inspirational, motivating, student-centric, professional, and future-oriented
+
+Video Length:
+Short promotional video (30–45 seconds)
+
+Output Format:
+Vertical or landscape video suitable for social media, email campaigns,
+and university promotions
